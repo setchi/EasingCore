@@ -1,4 +1,7 @@
-﻿// The MIT License (MIT)
+﻿// 
+// EasingCore - https://github.com/setchi/EasingCore
+// 
+// The MIT License (MIT)
 // 
 // Copyright (c) 2019 setchi
 // 
@@ -23,7 +26,7 @@
 using System;
 using UnityEngine;
 
-namespace Setchi.Easings
+namespace EasingCore
 {
     public enum Ease
     {

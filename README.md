@@ -1,4 +1,4 @@
-# Easings [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/setchi/Easings/blob/master/LICENSE)
+# EasingCore [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/setchi/Easings/blob/master/LICENSE)
 Simple easing implementation for Unity.
 
 ## API
@@ -18,7 +18,7 @@ Add a reference to the repository in the [`Packages\manifest.json`](https://docs
 ```json
 {
   "dependencies": {
-    "jp.setchi.easings": "https://github.com/setchi/Easings.git#upm"
+    "jp.setchi.easingcore": "https://github.com/setchi/EasingCore.git#upm"
   }
 }
 ```
