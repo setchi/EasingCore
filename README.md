@@ -8,7 +8,8 @@ public static Func<float, float> Get(Ease type)
 
 ## Usage
 ```csharp
-var function = EasingFunction.Get(Ease.OutCubic);
+var easeOutCubic = EasingFunction.Get(Ease.OutCubic);
+var p = easeOutCubic(0.5f);
 ```
 
 ## Installation
@@ -30,4 +31,4 @@ Clone or download this repository into the Assets directory of your project.
 [setchi](https://github.com/setchi)
 
 ## License
-MIT
+[MIT](https://github.com/setchi/EasingCore/blob/master/LICENSE)
