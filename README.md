@@ -1,5 +1,5 @@
 # EasingCore [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/setchi/Easings/blob/master/LICENSE)
-Simple easing implementation for Unity.
+Core Easing Implementation for Unity.
 
 ## API
 ```csharp
