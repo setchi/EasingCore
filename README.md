@@ -8,7 +8,7 @@ public static Func<float, float> Get(Ease type)
 
 ## Usage
 ```csharp
-var easeOutCubic = EasingFunction.Get(Ease.OutCubic);
+var easeOutCubic = Easing.Get(Ease.OutCubic);
 var p = easeOutCubic(0.5f);
 ```
 
