@@ -3,7 +3,7 @@ Core Easing Implementation for Unity.
 
 ## API
 ```csharp
-public static Func<float, float> Get(Ease type)
+public static EasingFunction Get(Ease type)
 ```
 
 ## Usage
