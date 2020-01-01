@@ -1,7 +1,7 @@
 {
   "name": "jp.setchi.easingcore",
   "displayName": "EasingCore",
-  "description": "Simple easing function for Unity.",
+  "description": "🐉 Core Easing Implementation for Unity.",
   "version": "1.0.0",
   "unity": "2018.3",
   "license": "MIT",
