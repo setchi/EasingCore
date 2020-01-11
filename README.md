@@ -1,4 +1,4 @@
-# EasingCore [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/setchi/Easings/blob/master/LICENSE) [![openupm](https://img.shields.io/npm/v/jp.setchi.easingcore?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/jp.setchi.easingcore/)
+# EasingCore [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/setchi/Easings/blob/master/LICENSE) [![openupm](https://img.shields.io/npm/v/jp.setchi.easingcore?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/jp.setchi.easingcore/)
 Core Easing Implementation for Unity.
 
 ## API
